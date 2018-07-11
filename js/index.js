@@ -2,9 +2,9 @@ var express = require('express');
 var fs = require('fs');
 
 var app = express();
-app.use(express.static('js'));
-app.use(express.static('css'));
 
+app.use(express.static(__dirname + '/public'))
+app.set('port', (process.env.PORT || 5000))
 
 app.get('/', function (req, res) {
     var isRoot = req.url.match(new RegExp("^/+$", "g"));
@@ -33,6 +33,6 @@ app.get('/', function (req, res) {
     });
 });
 
-app.listen(8888, function () {
+app.listen(app.get('port'), function () {
     console.log("The web server is running. Please open http://localhost:8888/ in your browser.");
 });
