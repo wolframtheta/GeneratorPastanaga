@@ -72,17 +72,22 @@ function hideNumber() {
 function createList() {
 	var table = document.getElementById("tableResults2");
 	var row;
-	row = table.insertRow(parseInt(x) + 1);
+	row = table.insertRow(1);
 	row.insertCell(0).innerHTML = json[0].Id;
-	row.insertCell(1).innerHTML = json[json.length-1];
+	row.insertCell(1).innerHTML = json[json.length-1].Id;
 	for (var x = 1; x < json.length; x++) {
-		row = table.insertRow(parseInt(x) + 1);
+		row = table.insertRow(parseInt(x+1));
 		row.insertCell(0).innerHTML = json[x].Id;
 		row.insertCell(1).innerHTML = json[x-1].Id;
 	}
 	showKillTable();
 }
-
+/*/
+5 5 7
+13 
+12
+7
+*/
 function showKillTable() {
 	document.getElementById("tableResults").className = 'hide-default';
 	document.getElementById("tableResults2").className = '';
@@ -94,5 +99,5 @@ function showAllTable() {
 	document.getElementById("tableResults").className = '';
 	document.getElementById("tableResults2").className = 'hide-default';
 	document.getElementById("killers").value = 'Mostrar llista assassins';
-	document.getElementById("killers").onclick = createList;
+	document.getElementById("killers").onclick = showKillTable;
 }
