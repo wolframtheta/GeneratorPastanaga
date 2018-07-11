@@ -1,0 +1,22 @@
+[
+{"Submitted":"2018-07-09 10:59:47 +00:00","Nom":"N\u00faria","Cognoms":"Sabio","Email":"nuria.sabio@ielesvinyes.net","Edat":"23","Telefon":"650297517","Submitted From":"79.153.171.163"},
+{"Submitted":"2018-07-09 07:59:51 +00:00","Nom":"Xavier","Cognoms":"Marqu\u00e8s Ramos","Email":"xaviermarques4f@gmail.com","Edat":"23","Telefon":"659402115","Submitted From":"88.12.239.155"},
+{"Submitted":"2018-07-06 21:28:22 +00:00","Nom":"Sara","Cognoms":"Bosch Ru\u00edz","Email":"srbosch.sbr@gmail.com","Edat":"17","Telefon":"642577342","Submitted From":"83.38.151.78"},
+{"Submitted":"2018-07-06 12:38:54 +00:00","Nom":"Christopher Javier","Cognoms":"Molina L\u00f3pez","Email":"csilestellez@gmai.com","Edat":"19","Telefon":"607244402","Submitted From":"31.4.202.166"},
+{"Submitted":"2018-07-06 11:21:52 +00:00","Nom":"Jordi","Cognoms":"Roca cabero","Email":"j.rocabero@gmail.com","Edat":"23","Telefon":"671412782","Submitted From":"84.78.18.137"},
+{"Submitted":"2018-07-06 09:04:02 +00:00","Nom":"Eric","Cognoms":"Teixid\u00f3 Gimeno","Email":"teixidogimenoeric@gmail.com","Edat":"20","Telefon":"625037620","Submitted From":"90.161.22.56"},
+{"Submitted":"2018-07-05 23:15:06 +00:00","Nom":"Judit","Cognoms":"Pallar\u00e8s Carbonell","Email":"juditpallares3@gmail.com","Edat":"22","Telefon":"608277026","Submitted From":"87.125.59.130"},
+{"Submitted":"2018-07-05 12:31:33 +00:00","Nom":"Natalie","Cognoms":"Hiscock","Email":"natalie.corbera99@gmail.com","Edat":"19","Telefon":"607356952","Submitted From":"80.103.114.57"},
+{"Submitted":"2018-07-05 11:55:17 +00:00","Nom":"Paula","Cognoms":"Mart\u00ed Santa","Email":"paulamarti11@gmail.com","Edat":"21","Telefon":"697692793","Submitted From":"47.63.2.8"},
+{"Submitted":"2018-07-05 05:14:43 +00:00","Nom":"Noem\u00ed","Cognoms":"Quelart Mart\u00edn","Email":"noemi.quelart@gmail.com","Edat":"27","Telefon":"607776499","Submitted From":"87.125.67.78"},
+{"Submitted":"2018-07-04 21:40:23 +00:00","Nom":"Daniel","Cognoms":"Gonz\u00e1lez Caparr\u00f3s","Email":"danigoca99@gmail.com","Edat":"18","Telefon":"671149245","Submitted From":"31.4.185.42"},
+{"Submitted":"2018-07-04 21:31:50 +00:00","Nom":"Ra\u00fcl","Cognoms":"Moliner Gil","Email":"raulmg_93@hotmail.com","Edat":"24","Telefon":"639174873","Submitted From":"79.154.155.168"},
+{"Submitted":"2018-07-04 20:52:24 +00:00","Nom":"Luis","Cognoms":"Dil Godoy","Email":"luisdilgodoy@gmail.com","Edat":"19","Telefon":"657769672","Submitted From":"79.147.115.1"},
+{"Submitted":"2018-07-04 20:28:50 +00:00","Nom":"Anna","Cognoms":"Menardia Porta","Email":"annamenardia99@gmail.com","Edat":"19","Telefon":"622906001","Submitted From":"213.143.48.84"},
+{"Submitted":"2018-07-04 20:28:21 +00:00","Nom":"Dani","Cognoms":"\u00c1lvarez Almirall","Email":"dani1517@gmail.com","Edat":"22","Telefon":"617004400","Submitted From":"213.143.48.84"},
+{"Submitted":"2018-07-04 20:26:07 +00:00","Nom":"Nat\u00e0lia","Cognoms":"Carreras Gallo","Email":"nataliacarreras11@gmail.com","Edat":"20","Telefon":"676992308","Submitted From":"95.19.138.213"},
+{"Submitted":"2018-07-04 19:38:01 +00:00","Nom":"Marisol","Cognoms":"Fern\u00e1ndez Miguel","Email":"marisolete99@gmail.com","Edat":"18","Telefon":"610213848","Submitted From":"87.125.101.74"},
+{"Submitted":"2018-07-04 19:35:40 +00:00","Nom":"Joan","Cognoms":"Terradas Terradas","Email":"joanterter@gmail.com","Edat":"20","Telefon":"619560968","Submitted From":"83.54.212.69"},
+{"Submitted":"2018-07-04 16:24:27 +00:00","Nom":"Estel","Cognoms":"Roig Ventura","Email":"esteelroig.99@gmail.com","Edat":"18","Telefon":"622588033","Submitted From":"79.157.58.50"},
+{"Submitted":"2018-07-04 16:16:31 +00:00","Nom":"Mar","Cognoms":"Farregut Luquero","Email":"farregut7mar@gmail.com","Edat":"22","Telefon":"679093467","Submitted From":"84.78.18.100"}
+]

@@ -1,0 +1,96 @@
+body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	color: #000;
+	background: #fff;
+}
+a {
+	color: #337ab7;
+	text-decoration: none;
+}
+a:hover, a:focus {
+	text-decoration: underline;
+	color: #23527c;
+}
+h1 {
+	margin-top:50px;
+	display:none;
+}
+.content {
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 15px;
+	padding-left: 15px;
+	width: 100%;
+	text-align: center;
+}
+table th {
+	 font-weight: bold;
+	 height: 40px;
+	
+}
+table {
+	border-collapse: collapse;
+}
+table tr {
+	border-top: 1px solid #ddd;
+	height: 48px;
+
+}
+
+table th, table tr, table td {
+	padding: 8px;
+	height: 48px;
+}
+table {
+	text-align: left;
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 20px;
+	table-layout: fixed;
+}
+table tr:hover {
+	background-color: #f5f5f5;
+}
+
+.eye {
+	float: left;
+	background: url(btn-sprite-top.png) no-repeat -59px -274px;
+    width: 31px;
+    height: 19px;
+    overflow: hidden;
+    text-indent: -9999px;
+    margin: 0px 5px 0;
+}
+.Fail {
+	background-color: #ffcccc;
+}
+.OK {
+	background-color: #d1ffcc;
+}
+.stateFail {
+	color: #ff0000;
+}
+.stateOK {
+	color: #52cc52;
+}
+.center {
+	text-align: center;
+}
+
+#number-pages {
+	font-size:2em;
+}
+.pages {
+	color:#000000;
+}
+.actual-page {
+	color:#999999;
+}
+.hide-default {
+	display:none;
+}
+.pages a:hover {
+	text-decoration: none;
+	cursor: pointer;
+}
