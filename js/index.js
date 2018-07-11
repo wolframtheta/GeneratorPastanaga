@@ -4,7 +4,9 @@ var fs = require('fs');
 var app = express();
 
 app.use(express.static(__dirname + '/public'))
-app.set('port', (process.env.PORT || 5000))
+app.use(express.static('js'));
+app.use(express.static('css'));
+
 
 app.get('/', function (req, res) {
     var isRoot = req.url.match(new RegExp("^/+$", "g"));
